@@ -1,0 +1,34 @@
+{
+  "todos": [
+    {
+      "userId": 1,
+      "title": "Go to Work ⚒",
+      "completed": false,
+      "id": 3
+    },
+    {
+      "userId": 1,
+      "title": "Write Code 💻",
+      "id": 4,
+      "completed": false
+    },
+    {
+      "userId": 1,
+      "title": "hey hey",
+      "id": 5,
+      "completed": false
+    },
+    {
+      "userId": 1,
+      "title": "Vacation! 🌴",
+      "completed": true,
+      "id": 6
+    },
+    {
+      "userId": 1,
+      "title": "new todo",
+      "completed": true,
+      "id": 7
+    }
+  ]
+}
